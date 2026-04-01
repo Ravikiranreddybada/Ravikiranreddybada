@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I built an AI that turns GitHub issues into pull requests automatically**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Ravikiranreddybada](https://github.com/Ravikiranreddybada)**
+- 👨‍💻 All of my projects are available at **[https://github.com/Ravikiranreddybada?tab=repositories)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
