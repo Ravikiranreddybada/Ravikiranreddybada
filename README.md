@@ -1,29 +1,61 @@
-# Hi 👋, I'm Ravikiranreddybada
+# Hi, I'm Ravi Kiran Reddy 👋
 
-### AI/ML · CS undergrad @ NIIT University · Building real-world AI systems
+**B.Tech CSE (AI & ML) · NIIT University · 3rd Year**
 
-- 🔭 I'm currently working on **AI agents and automated developer tooling**
+I build production-grade agentic AI systems — ReAct agents, RAG pipelines, async FastAPI backends. I care about systems thinking: understanding how things work at the execution level, not just through framework abstractions.
 
-- 🌱 I'm currently learning **Deep Learning, Computer Vision, LLMs, MLOps**
+---
 
-- 👯 I'm looking to collaborate on **AI/ML projects, Data Science pipelines, AI agent systems**
+## What I've built
 
-- 💬 Ask me about **Machine Learning, Python, AI Agents, LLMs, Flask**
+### 🤖 [AgentPilot](https://github.com/Ravikiranreddybada/agentpilot) — Multi-Agent AI Platform
+> Autonomous task execution via a from-scratch ReAct loop. No LangChain — built to understand orchestration deeply.
 
-- 📫 How to reach me **badaravikiranreddy@gmail.com**
+- Implemented ReAct (Reason + Act) loop from scratch — agent decomposes queries into tool calls, observes results, synthesizes answers
+- Async FastAPI backend integrating 5 external systems (Slack, Tavily, MongoDB, Pinecone, HTTP) via custom tool dispatcher
+- RAG pipeline with Jina embeddings + Pinecone for hallucination-free document Q&A
+- **Stack:** Python · FastAPI · asyncio · Pydantic · Pinecone · MongoDB · Docker · Groq · React.js
 
-- ⚡ Fun fact **I built an AI that turns GitHub issues into pull requests automatically**
+### 🔬 [DermaSmart](https://github.com/Ravikiranreddybada/dermasmart) — AI Skin Diagnosis System
+> 4-stage safe-audit pipeline built for a hallucination-sensitive domain.
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Ravikiranreddybada?tab=repositories)**
+- HSV neural image gating → MobileNetV2 classification (23+ conditions) → ethical hard-intercept → Gemini 2.0 reasoning
+- In-memory byte-stream processing — images never persisted to disk (deliberate privacy trade-off)
+- **Stack:** Python · FastAPI · TensorFlow · MobileNetV2 · OpenCV · Gemini 2.0 · React 18 · TypeScript · Auth0
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ravikiranreddybada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ravikiranreddybada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravikiranreddybada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikiranreddybada" height="30" width="40" /></a>
-<a href="https://kaggle.com/ravikiranreddybada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravikiranreddybada" height="30" width="40" /></a>
-<a href="https://leetcode.com/ravikiranreddybada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravikiranreddybada" height="30" width="40" /></a>
-</p>
+### ⚙️ [MergeMind](https://github.com/Ravikiranreddybada/MergeMind) — Autonomous GitHub PR Agent
+> Converts GitHub issues into reviewed, production-ready PRs with real-time SSE streaming and human-in-the-loop gates.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+- Agentic state machine: issue fetch → repo analysis → AI fix generation → human approval → PR open
+- Two-stage HITL gates prevent unsafe auto-merge
+- Real-time SSE streaming surfaces intermediate agent reasoning to the client
+- **Stack:** Python · FastAPI · asyncio · Pydantic v2 · Groq LLaMA 3.1-70B · SSE · Next.js 14 · TypeScript
 
+---
+
+## Tech stack
+
+```
+Languages    Python · TypeScript · JavaScript · SQL
+Backend      FastAPI · asyncio · Pydantic v2 · httpx · REST APIs
+LLM/Agents   ReAct orchestration · RAG pipelines · Groq · Gemini · OpenAI-pattern APIs
+Databases    Pinecone (vector DB) · MongoDB · MySQL
+Frontend     React.js · Next.js · Tailwind CSS
+DevOps       Docker · Git · Render · Vercel · AWS (Cloud Practitioner certified)
+```
+
+---
+
+## Currently
+
+- 🎓 3rd year B.Tech CSE (AI & ML) at NIIT University
+- 🔍 Looking for a **6–12 month AI/ML or backend internship** (remote or Bangalore/Hyderabad)
+- 🏗️ Building more production agentic systems
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ravikiran-portfolio-theta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikiranreddybada)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:badaravikiranreddy@gmail.com)
