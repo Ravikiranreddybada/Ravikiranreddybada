@@ -18,9 +18,9 @@
 
 <img src="assets/h-client.svg" alt="Client work" width="100%"/>
 
-<a href="#"><img src="assets/card-bial.svg" alt="BIAL — Bengaluru Airport" width="100%"/></a>
-<a href="#"><img src="assets/card-sydney.svg" alt="Sydney Airport T1 Digital Twin" width="100%"/></a>
-<a href="#"><img src="assets/card-sandbox.svg" alt="Sandbox-RTSP" width="100%"/></a>
+<img src="assets/card-bial.svg" alt="BIAL — Bengaluru Airport" width="100%"/>
+<img src="assets/card-sydney.svg" alt="Sydney Airport T1 Digital Twin" width="100%"/>
+<img src="assets/card-sandbox.svg" alt="Sandbox-RTSP" width="100%"/>
 
 <sub>Client and employer work, so the repos are private. Sydney was a team of two. At BIAL, the DeepStream models belong to a teammate. I built the dashboard, APIs, databases and streaming around them. Happy to walk through any of it live.</sub>
 
