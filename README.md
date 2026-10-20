@@ -1,75 +1,42 @@
-<div align="center">
+<img src="assets/hero.svg" alt="Ravi Kiran Reddy, AI Engineer" width="100%"/>
 
-<img src="assets/ravi-hero.svg" alt="Ravi Kiran Reddy — AI engineer" width="100%"/>
+<p align="center">
+  <a href="https://www.ravikiranreddy.online"><img src="https://img.shields.io/badge/Portfolio-5B3E96?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/ravikiranreddybada"><img src="https://img.shields.io/badge/LinkedIn-5B3E96?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:badaravikiranreddy@gmail.com"><img src="https://img.shields.io/badge/Email-5B3E96?style=for-the-badge" alt="Email"/></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ravikiranreddy.online-701A3D?style=for-the-badge&logo=googlechrome&logoColor=F8F0F3)](https://www.ravikiranreddy.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://linkedin.com/in/ravikiranreddybada)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-C77B9B?style=for-the-badge&logo=gmail&logoColor=190B12)](mailto:badaravikiranreddy@gmail.com)
+I build AI agents and data systems for real clients. At BLP Industry.AI I work like a forward-deployed engineer: I build the pipeline, backend, agent and UI, then demo it live to the client.
 
-<img src="assets/stats.svg" alt="Snapshot numbers" width="100%"/>
+Final-year B.Tech student, open to **AI/ML, data and backend roles from January 2027**. Based in Bengaluru.
 
-</div>
+## Client work
 
-<br/>
+*Employer projects. Repositories are private.*
 
-**I build AI agents and data systems that survive real clients.** At BLP Industry.AI I work like a forward-deployed engineer. I build the pipeline, backend, agent and UI, then demo it live. Final-year B.Tech CSE (AI & ML) at NIIT University. Open to AI/ML, data and backend roles from Jan 2027.
+| Project | What I built | Stack |
+|---|---|---|
+| **BIAL — Bengaluru Airport** | Terminal operations dashboard, a Kafka pipeline (48,679 events, zero duplicates on replay) and a live camera-streaming layer for video analytics. | Kafka · FastAPI · PostgreSQL · React · WebRTC |
+| **Sydney Airport — Terminal 1** | 3D digital twin of a chiller plant on real telemetry, with an AI assistant that must cite a tool for every number. Team of two. | React Three Fiber · FastAPI · Gemini · Firestore |
+| **Sandbox-RTSP** | Internal tool that mirrors production cameras in Docker, so the CV team can test pipelines without site access. | Docker · MediaMTX · FFmpeg · FastAPI |
 
-<br/>
+## Personal projects
 
-<img src="assets/h-client.svg" alt="Client work" width="100%"/>
+| Project | What it does | Stack |
+|---|---|---|
+| [**Kairos**](https://github.com/Ravikiranreddybada/kairos) | Demand forecasting to inventory decisions, with a grounded AI copilot. | Python · LightGBM · LangGraph |
+| [**Sahay**](https://github.com/Ravikiranreddybada/sahay) | Healthcare assistant built to be reliably right, with safety gates and evals. | Python · LangGraph · MCP |
+| [**AgentPilot**](https://github.com/Ravikiranreddybada/agentpilot) | Multi-agent platform with a ReAct loop written from scratch. | FastAPI · Pinecone · Groq |
+| [**MergeMind**](https://github.com/Ravikiranreddybada/MergeMind) | Turns a GitHub issue into a reviewed pull request, with human approval gates. | FastAPI · Next.js · Groq |
 
-<img src="assets/card-bial.svg" alt="BIAL — Bengaluru Airport" width="100%"/>
-<img src="assets/card-sydney.svg" alt="Sydney Airport T1 Digital Twin" width="100%"/>
-<img src="assets/card-sandbox.svg" alt="Sandbox-RTSP" width="100%"/>
+## Recognition
 
-<sub>Client and employer work, so the repos are private. Sydney was a team of two. At BIAL, the DeepStream models belong to a teammate. I built the dashboard, APIs, databases and streaming around them. Happy to walk through any of it live.</sub>
+- 🥈 2nd of 96, Abstruse cryptic hunt, siNUsoid vX, NIIT University (2026)
+- ☁️ AWS Certified Cloud Practitioner (June 2025)
 
-<br/><br/>
+## Toolkit
 
-<img src="assets/h-personal.svg" alt="Personal projects" width="100%"/>
-
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Ravikiranreddybada/kairos"><img src="assets/card-kairos.svg" alt="Kairos" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Ravikiranreddybada/sahay"><img src="assets/card-sahay.svg" alt="Sahay" width="100%"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Ravikiranreddybada/agentpilot"><img src="assets/card-agentpilot.svg" alt="AgentPilot" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Ravikiranreddybada/MergeMind"><img src="assets/card-mergemind.svg" alt="MergeMind" width="100%"/></a></td>
-</tr>
-</table>
-
-<sub>Kairos runs on a synthetic retail dataset. Sahay evals run on the offline engine. Also: [DermaSmart](https://github.com/Ravikiranreddybada/dermasmart), an AI skin-analysis pipeline where images never touch disk.</sub>
-
-<br/>
-
-### 🏆 Recognition
-
-🥈 **2nd of 96** · Abstruse cryptic hunt / CTF, siNUsoid vX, NIIT University (2026) &nbsp;·&nbsp; ☁️ **AWS Certified Cloud Practitioner** (Jun 2025)
-
-### 🧰 Toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-701A3D?style=flat-square&logo=python&logoColor=F8F0F3)
-![TypeScript](https://img.shields.io/badge/TypeScript-701A3D?style=flat-square&logo=typescript&logoColor=F8F0F3)
-![SQL](https://img.shields.io/badge/SQL-701A3D?style=flat-square&logo=postgresql&logoColor=F8F0F3)
-![FastAPI](https://img.shields.io/badge/FastAPI-451126?style=flat-square&logo=fastapi&logoColor=F8F0F3)
-![Kafka](https://img.shields.io/badge/Kafka-451126?style=flat-square&logo=apachekafka&logoColor=F8F0F3)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-451126?style=flat-square&logo=postgresql&logoColor=F8F0F3)
-![Docker](https://img.shields.io/badge/Docker-451126?style=flat-square&logo=docker&logoColor=F8F0F3)
-![LangGraph](https://img.shields.io/badge/LangGraph-C77B9B?style=flat-square&logoColor=190B12)
-![MCP](https://img.shields.io/badge/MCP-C77B9B?style=flat-square&logoColor=190B12)
-![RAG](https://img.shields.io/badge/RAG%20%26%20Evals-C77B9B?style=flat-square&logoColor=190B12)
-![LightGBM](https://img.shields.io/badge/LightGBM-C77B9B?style=flat-square&logoColor=190B12)
-![React](https://img.shields.io/badge/React-701A3D?style=flat-square&logo=react&logoColor=F8F0F3)
-![Three.js](https://img.shields.io/badge/Three.js-701A3D?style=flat-square&logo=threedotjs&logoColor=F8F0F3)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-451126?style=flat-square&logo=anthropic&logoColor=F8F0F3)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="assets/ravi-footer.svg" alt="Build with intent, ship with care" width="100%"/>
-</div>
+**Languages:** Python, TypeScript, SQL  
+**AI:** LangGraph, MCP, RAG, LLM evals, Claude, Gemini  
+**Data and backend:** FastAPI, Kafka, PostgreSQL, Docker, LightGBM  
+**Frontend:** React, Three.js
