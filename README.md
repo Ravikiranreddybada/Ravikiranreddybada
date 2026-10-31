@@ -16,7 +16,7 @@ Final-year B.Tech student, open to **AI/ML, data and backend roles from January 
 
 | Project | What I built | Stack |
 |---|---|---|
-| **BIAL — Bengaluru Airport** | Terminal operations dashboard, a Kafka pipeline (48,679 events, zero duplicates on replay) and a live camera-streaming layer for video analytics. | Kafka · FastAPI · PostgreSQL · React · WebRTC |
+| **BIAL — Bengaluru Airport** | Terminal operations dashboard, a Kafka pipeline and a live camera-streaming layer for video analytics. | Kafka · FastAPI · PostgreSQL · React · WebRTC |
 | **Sydney Airport — Terminal 1** | 3D digital twin of a chiller plant on real telemetry, with an AI assistant that must cite a tool for every number. Team of two. | React Three Fiber · FastAPI · Gemini · Firestore |
 | **Sandbox-RTSP** | Internal tool that mirrors production cameras in Docker, so the CV team can test pipelines without site access. | Docker · MediaMTX · FFmpeg · FastAPI |
 
