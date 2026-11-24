@@ -7,7 +7,7 @@
   <a href="https://github.com/Ravikiranreddybada?tab=repositories"><b>Repositories</b></a>
 </p>
 
-I am a paid **AI/ML Engineering Intern at BLP Industry.AI (₹30,000/month)**, building production systems for airport operations in Bengaluru and Sydney. I work across the full path: models, event pipelines, APIs, agent safety, cloud deployment and the interface an operator trusts.
+I am an **AI/ML Engineering Intern at BLP Industry.AI**, building production systems for airport operations in Bengaluru and Sydney. I work across the full path: models, event pipelines, APIs, agent safety, cloud deployment and the interface an operator trusts.
 
 I do not treat an LLM response as an answer just because it sounds correct. My systems trace numbers to tools, attach uncertainty to forecasts, require confirmation before writes and replay production conditions before deployment.
 
