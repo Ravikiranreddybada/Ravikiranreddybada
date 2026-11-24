@@ -85,6 +85,16 @@ I do not treat an LLM response as an answer just because it sounds correct. My s
 | **React, Next.js, TypeScript, Three.js** | Operator interfaces, product surfaces and interactive digital twins |
 | **Docker, Kubernetes, Terraform, OpenTelemetry** | Repeatable delivery, autoscaling, infrastructure and observability |
 
+## Contribution signal
+
+<a href="https://github.com/Ravikiranreddybada?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ravikiranreddybada&amp;bg_color=0b0f15&amp;color=98a5b5&amp;line=71a2ff&amp;point=edf2f7&amp;area=true&amp;area_color=71a2ff&amp;hide_border=true&amp;hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ravikiranreddybada&amp;bg_color=ffffff&amp;color=566171&amp;line=1457d9&amp;point=1457d9&amp;area=true&amp;area_color=1457d9&amp;hide_border=true&amp;hide_title=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravikiranreddybada&amp;bg_color=0b0f15&amp;color=98a5b5&amp;line=71a2ff&amp;point=edf2f7&amp;area=true&amp;area_color=71a2ff&amp;hide_border=true&amp;hide_title=true" alt="Ravi Kiran Reddy's GitHub contribution activity" width="100%" />
+  </picture>
+</a>
+
 ## Engineering contract
 
 ```text
