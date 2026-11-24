@@ -46,9 +46,6 @@ I do not treat an LLM response as an answer just because it sounds correct. My s
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://kairos-web-mu.vercel.app">
-        <img src="https://raw.githubusercontent.com/Ravikiranreddybada/ravikiranreddybada-portfolio/main/public/shots/kairos.jpg" alt="Kairos supply-chain decision intelligence interface" width="100%" />
-      </a>
       <h3><a href="https://github.com/Ravikiranreddybada/kairos">Kairos</a></h3>
       <p><b>Supply-chain decision intelligence</b></p>
       <p>Probabilistic forecasts become inventory policy, stress-tested decisions and grounded answers for planners.</p>
@@ -62,9 +59,6 @@ I do not treat an LLM response as an answer just because it sounds correct. My s
       <p><a href="https://kairos-web-mu.vercel.app"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Ravikiranreddybada/kairos"><b>Source</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://sahay-web-nu.vercel.app">
-        <img src="https://raw.githubusercontent.com/Ravikiranreddybada/ravikiranreddybada-portfolio/main/public/shots/sahay.jpg" alt="Sahay healthcare care assistant interface" width="100%" />
-      </a>
       <h3><a href="https://github.com/Ravikiranreddybada/sahay">Sahay</a></h3>
       <p><b>Grounded multi-agent healthcare assistant</b></p>
       <p>Safety and authorization live in the runtime, not in a hopeful prompt. Designed to serve 1 lakh daily users.</p>
