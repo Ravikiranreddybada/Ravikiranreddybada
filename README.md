@@ -34,7 +34,7 @@ I do not treat an LLM response as an answer just because it sounds correct. My s
     <td width="50%" valign="top">
       <h3>Sydney Airport T1</h3>
       <p><b>Chiller plant digital twin and AI assistant</b></p>
-      <p>An 8-month audit of 15-minute BMS telemetry produced 6 Energy Conservation Measures worth <b>A$72,072 per year</b>.</p>
+      <p>An 8-month audit of 15-minute BMS telemetry produced 6 Energy Conservation Measures.</p>
       <p>The production twin combines a grounded multi-model Plant Assistant, Gemini Live voice and an interactive React Three Fiber plant on Google Cloud.</p>
       <code>BigQuery</code> <code>Gemini</code> <code>Three.js</code> <code>Cloud Run</code>
     </td>
